@@ -1,4 +1,4 @@
-# M02W05 - Promises - January 29 2024
+# M02W05 - Promises - 2024-01-29
 ### To Do
 - [] Asynchronosity
 - [] Callback review
